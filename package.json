@@ -1,0 +1,11 @@
+{
+  "name": "serverproject",
+  "version": "1.0.0",
+  "description": "this project use for career Naksha team shivdatt tripathi , vikas , Moin ansar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
